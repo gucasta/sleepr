@@ -34,7 +34,7 @@ spec:
               secretKeyRef:
                 name: google
                 key: refreshTokenKey
-          - name: GOOGLE_OAUTH_ACESS_TOKEN
+          - name: GOOGLE_OAUTH_ACCESS_TOKEN
             valueFrom:
               secretKeyRef:
                 name: google
