@@ -56,3 +56,7 @@ pids
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 sleepr.json
+k8s/sleepr/google.yaml
+k8s/sleepr/jwt.yaml
+k8s/sleepr/mongodb.yaml
+k8s/sleepr/stripe.yaml
